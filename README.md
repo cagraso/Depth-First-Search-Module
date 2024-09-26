@@ -1,4 +1,4 @@
-# Depth-First-Search-Module
+# Depth First Search Module
 ## Brief Explanation
 Depth first search module can traverse over a directed acyclic graph (DAG) having a user defined maximum node number. Module sends visited node data to the output port at every clock cycle.  All adjacent nodes of a visited node can be stored in a stack in 1 clock cycle.
 ## Design Overview
